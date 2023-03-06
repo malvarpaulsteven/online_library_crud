@@ -49,15 +49,15 @@
                         <div class="modal-body">
                             <form action="">
                                 <label for="">Title:</label>
-                                <input type="text" name="add_title" id="add_title" class="form-control" required>
+                                <input type="text" name="add_title" id="add_title" class="form-control" required><br>
                                 <label for="">Author:</label>
-                                <input type="text" name="add_author" id="add_author" class="form-control" required>
+                                <input type="text" name="add_author" id="add_author" class="form-control" required><br>
                                 <label for="">Date:</label>
-                                <input type="date" name="add_date" id="add_date" class="form-control" required>
+                                <input type="date" name="add_date" id="add_date" class="form-control" required><br>
                                 <label for="">Publisher:</label>
-                                <input type="text" name="add_pub" id="add_pub" class="form-control" required>
+                                <input type="text" name="add_pub" id="add_pub" class="form-control" required><br>
                                 <label for="">Genre:</label>
-                                <select type="text" name="add_genre" id="add_genre" class="form-control" required>
+                                <select type="text" name="add_genre" id="add_genre" class="form-control" required><br>
                                     <option value="Romance">Romance</option>
                                     <option value="Comedy">Comedy</option>
                                     <option value="Drama">Drama</option>
@@ -86,15 +86,15 @@
                         <div class="modal-body">
                             <form action="">
                                 <label for="">Title:</label>
-                                <input type="text" name="view_title" id="view_title" class="form-control" disabled>
+                                <input type="text" name="view_title" id="view_title" class="form-control" disabled><br>
                                 <label for="">Author:</label>
-                                <input type="text" name="view_author" id="view_author" class="form-control" disabled>
+                                <input type="text" name="view_author" id="view_author" class="form-control" disabled><br>
                                 <label for="">Date:</label>
-                                <input type="date" name="view_date" id="view_date" class="form-control" disabled>
+                                <input type="date" name="view_date" id="view_date" class="form-control" disabled><br>
                                 <label for="">Publisher:</label>
-                                <input type="text" name="view_pub" id="view_pub" class="form-control" disabled>
+                                <input type="text" name="view_pub" id="view_pub" class="form-control" disabled><br>
                                 <label for="">Genre:</label>
-                                <select type="text" name="view_genre" id="view_genre" class="form-control" disabled>
+                                <select type="text" name="view_genre" id="view_genre" class="form-control" disabled><br>
                                     <option value="Romance">Romance</option>
                                     <option value="Comedy">Comedy</option>
                                     <option value="Drama">Drama</option>
@@ -124,15 +124,15 @@
                             <form action="">
                                 <input type="hidden" name="edit_id" id="edit_id" class="form-control">
                                 <label for="">Title:</label>
-                                <input type="text" name="edit_title" id="edit_title" class="form-control" required>
+                                <input type="text" name="edit_title" id="edit_title" class="form-control" required><br>
                                 <label for="">Author:</label>
-                                <input type="text" name="edit_author" id="edit_author" class="form-control" required>
+                                <input type="text" name="edit_author" id="edit_author" class="form-control" required><br>
                                 <label for="">Date:</label>
-                                <input type="date" name="edit_date" id="edit_date" class="form-control" required>
+                                <input type="date" name="edit_date" id="edit_date" class="form-control" required><br>
                                 <label for="">Publisher:</label>
-                                <input type="text" name="edit_pub" id="edit_pub" class="form-control" required>
+                                <input type="text" name="edit_pub" id="edit_pub" class="form-control" required><br>
                                 <label for="">Genre:</label>
-                                <select type="text" name="edit_genre" id="edit_genre" class="form-control" required>
+                                <select type="text" name="edit_genre" id="edit_genre" class="form-control" required><br>
                                     <option value="Romance">Romance</option>
                                     <option value="Comedy">Comedy</option>
                                     <option value="Drama">Drama</option>
